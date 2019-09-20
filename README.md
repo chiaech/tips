@@ -4,7 +4,7 @@
 
 Submitted by: **Analucia Esparza-Chavez**
 
-Time spent: **40 minutes** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
